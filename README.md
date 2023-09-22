@@ -1,1 +1,1 @@
-This repository is used to store al the exercise files and programs that I use to learn Python programming language.
+This repository is used to store all the exercise files and programs that used to learn Python programming language in 2023
